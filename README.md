@@ -1,6 +1,6 @@
 # Darkokai for [Kakoune](https://kakoune.org)
-[sjrmanning's](https://github.com/sjrmanning/darkokai) Emacs Darkokai theme
-for [Kakoune](https://kakoune.org).
+[Kakoune](https://kakoune.org) Darkokai theme based on
+[sjrmanning's](https://github.com/sjrmanning/darkokai) Emacs Darkokai.
 
 ## Screenshot
 ![screenshot](screenshot.png)
@@ -8,7 +8,9 @@ for [Kakoune](https://kakoune.org).
 ## Installation
 ### [Plug.kak](https://github.com/andreyorst/plug.kak)
 ```
-plug "marki-o/kakoune-darkokai-theme" domain "gitlab.com" theme
+plug "marki-o/kakoune-darkokai-theme" domain "gitlab.com" theme config %{
+    colorscheme darkokai
+}
 ```
 
 ### Manual
