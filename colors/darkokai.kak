@@ -1,6 +1,3 @@
-
-
-
 evaluate-commands %sh{
     radical_red='rgb:ff0066'
     sky_blue='rgb:05daff'
