@@ -8,7 +8,7 @@
 ## Installation
 ### [Plug.kak](https://github.com/andreyorst/plug.kak)
 ```
-plug "marki-o/kakoune-darkokai-theme" domain "gitlab.com" theme config %{
+plug "markolenik/kakoune-darkokai-theme" domain "gitlab.com" theme config %{
     colorscheme darkokai
 }
 ```
